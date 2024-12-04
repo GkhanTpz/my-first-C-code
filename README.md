@@ -1,5 +1,3 @@
----
-
 ### **Geometric Shape Calculator**
 
 This C program calculates the surface area and volume of various geometric shapes. It uses a menu-driven approach to allow the user to select the desired calculation, input the required dimensions, and display the results.
